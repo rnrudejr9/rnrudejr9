@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=rnrudejr9)](https://solved.ac/profile/rnrudejr9)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnrudejr9)](https://github.com/rnrudejr9/github-readme-stats
