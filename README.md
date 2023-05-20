@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요&fontSize=70)
 
 <!--
 **rnrudejr9/rnrudejr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-rnrudejr9.github.io
-
+<a href="https://rnrudejr9.github.io">깃허브 주소</a>
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=rnrudejr9)](https://solved.ac/profile/rnrudejr9)
 
