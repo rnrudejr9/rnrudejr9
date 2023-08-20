@@ -1,5 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요&fontSize=70)
 
+# rnrudejr9 👋
+
+## Introduction
+혼자만의 성장보단 팀과 서비스의 성장을 추구하는 백엔드 개발자입니다.
+
+# 🎨Projects
+
+| Service | Description | Part | Link |
+| --- | --- | --- | --- |
+| 오늘부터 운동메이트 | 지역사회운동 활성화 | BE | |
+
+# 😄Euducation
+
+### SSAFY 10기 (삼성SW아카데미) ( 2023.07 ~ 현재 )
+
+- 1학기 알고리즘 학습
+
+### 멋쟁이사자처럼 백엔드 스쿨 2기 ( 2022.09 ~ 2023.02 )
+
+- 개인/팀 프로젝트
+- 우수 프로젝트 / 우수 수료생 수상
+
+
+
+
+
+
+# 🌱Skills🌱
+
 
 <div align=center>
 	<br/>
