@@ -94,7 +94,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnrudejr9)](https://github.com/rnrudejr9/github-readme-stats)
 
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rnrudejr9&theme=warm)
+
 </div>
+
 
 
 
