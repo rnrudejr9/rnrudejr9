@@ -14,7 +14,9 @@
 
 ## 🏃‍♂️ Activity
 
-* SSAFY 10기 (삼성SW아카데미) ( 2023.07 ~ 현재 )
+* 신한은행 ICT 개발 
+
+* SSAFY 10기 (삼성SW아카데미) ( 2023.07 ~ 2023.12 )
 
 	- 1학기 알고리즘 학습 및 관통 프로젝트 수행
 	- 알고리즘 등급 A형 취득 ( 08.31 ) 
@@ -67,35 +69,6 @@
 
 <div align="center">
 
-
-<a href="https://rnrudejr9.github.io">포트폴리오</a>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnrudejr9&show_icons=true)
-
-<!--
-**rnrudejr9/rnrudejr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=rnrudejr9)](https://solved.ac/profile/rnrudejr9)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnrudejr9)](https://github.com/rnrudejr9/github-readme-stats)
-
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rnrudejr9&theme=warm)
 
 </div>
 
