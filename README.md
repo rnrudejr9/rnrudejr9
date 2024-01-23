@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=70)
 
 ## Introduction
 혼자만의 성장보단 팀과 서비스의 성장을 추구하는 백엔드 개발자 `구경덕` 입니다.
@@ -30,24 +30,5 @@
 	- 우수 프로젝트 / 우수 수료생 수상
 
 * ROTC ( 2020.03 ~ 2022.06 )
-
-
-
-# 🌱Skills🌱
-
-
-<div align=center>
-		
-	<h3>📫 Contact 📫</h3>
-	<a href="https://koopi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="mailto:rnrudejr9@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-</div>
-<br/><br/>
-
-
 
 
